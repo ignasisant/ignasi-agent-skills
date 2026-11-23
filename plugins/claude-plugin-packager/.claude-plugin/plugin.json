@@ -1,0 +1,10 @@
+{
+  "name": "claude-plugin-packager",
+  "version": "1.0.0",
+  "description": "Package skills, commands, subagents, hooks and MCP servers into a Claude Code plugin + marketplace, then validate and test-install it.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/claude-plugin-packager-ship-skills-as-a-plugin",
+  "license": "MIT"
+}
