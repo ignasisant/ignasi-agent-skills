@@ -1,0 +1,10 @@
+{
+  "name": "claude-code-hooks-builder",
+  "version": "1.0.0",
+  "description": "Design, write and test Claude Code hooks: auto-format and test after edits, block risky commands, inject context, desktop alerts.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/claude-code-hooks-builder-auto-lint-tests-guards",
+  "license": "MIT"
+}
