@@ -1,0 +1,10 @@
+{
+  "name": "session-handoff",
+  "version": "1.0.0",
+  "description": "Save goal, decisions, files, commands and next steps into a verified HANDOFF.md before context runs out, then resume cleanly.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/session-handoff-save-resume-claude-work",
+  "license": "MIT"
+}
