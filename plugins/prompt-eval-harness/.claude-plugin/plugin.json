@@ -1,0 +1,10 @@
+{
+  "name": "prompt-eval-harness",
+  "version": "1.0.0",
+  "description": "Build an eval suite for any system prompt, skill or agent: realistic and adversarial cases, code + LLM-judge graders, multi-model runs with cost and latency, regression checks.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/prompt-eval-harness-test-prompts-skills-agents",
+  "license": "MIT"
+}
