@@ -1,0 +1,10 @@
+{
+  "name": "cv-tailor",
+  "version": "1.0.0",
+  "description": "Tailor your resume and cover letter to each job for ATS keyword match and metric-driven impact, without inventing experience.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/cv-tailor-ats-ready-resume-cover-letter-per-job",
+  "license": "MIT"
+}
