@@ -1,0 +1,10 @@
+{
+  "name": "terse-mode",
+  "version": "1.0.0",
+  "description": "Make your agent answer in a compact, high-signal style that cuts output tokens 30-75% without losing correctness.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/terse-mode-shorter-answers-fewer-tokens",
+  "license": "MIT"
+}
