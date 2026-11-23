@@ -1,0 +1,2 @@
+Copy your original SKILL.md for 'Anti AI-Slop UI' (and any scripts/ or references/) into this folder, then delete this file.
+Source listing: https://www.agensi.io/skills/anti-ai-slop-ui-make-generated-uis-look-designed
