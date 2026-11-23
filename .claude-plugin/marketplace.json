@@ -1,0 +1,67 @@
+{
+  "name": "ignasi-agent-skills",
+  "owner": {
+    "name": "Ignasi"
+  },
+  "metadata": {
+    "description": "Free Claude Code skills by Ignasi. Pro versions on Agensi."
+  },
+  "plugins": [
+    {
+      "name": "prompt-eval-harness",
+      "source": "./plugins/prompt-eval-harness",
+      "description": "Build an eval suite for any system prompt, skill or agent: realistic and adversarial cases, code + LLM-judge graders, multi-model runs with cost and latency, regression checks.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "claude-plugin-packager",
+      "source": "./plugins/claude-plugin-packager",
+      "description": "Package skills, commands, subagents, hooks and MCP servers into a Claude Code plugin + marketplace, then validate and test-install it.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "claude-code-hooks-builder",
+      "source": "./plugins/claude-code-hooks-builder",
+      "description": "Design, write and test Claude Code hooks: auto-format and test after edits, block risky commands, inject context, desktop alerts.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "session-handoff",
+      "source": "./plugins/session-handoff",
+      "description": "Save goal, decisions, files, commands and next steps into a verified HANDOFF.md before context runs out, then resume cleanly.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "terse-mode",
+      "source": "./plugins/terse-mode",
+      "description": "Make your agent answer in a compact, high-signal style that cuts output tokens 30-75% without losing correctness.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "anti-ai-slop-ui",
+      "source": "./plugins/anti-ai-slop-ui",
+      "description": "Audit and redesign generic AI-generated interfaces into distinct, high-craft visual directions.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "cv-tailor",
+      "source": "./plugins/cv-tailor",
+      "description": "Tailor your resume and cover letter to each job for ATS keyword match and metric-driven impact, without inventing experience.",
+      "version": "1.0.0",
+      "category": "productivity"
+    },
+    {
+      "name": "cold-email-outreach",
+      "source": "./plugins/cold-email-outreach",
+      "description": "Plain-text B2B cold email and LinkedIn sequences that get replies, with built-in deliverability checks.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}
