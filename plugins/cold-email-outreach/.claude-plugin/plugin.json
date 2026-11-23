@@ -1,0 +1,10 @@
+{
+  "name": "cold-email-outreach",
+  "version": "1.0.0",
+  "description": "Plain-text B2B cold email and LinkedIn sequences that get replies, with built-in deliverability checks.",
+  "author": {
+    "name": "Ignasi"
+  },
+  "homepage": "https://www.agensi.io/skills/cold-email-outreach-sequences-that-get-replies",
+  "license": "MIT"
+}
